@@ -1,0 +1,69 @@
+1.  Which type of loop(s) is/are not supported by Python?
+Answer: Python supports for and while loops only. Python does not have the do while loop.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+2.What statement can be used inside a loop to skip the rest of the code for the current iteration, so execution can continue with the next iteration?
+Answer:The continue statement is used inside a loop to skip the rest of the code for the current iteration, so execution can continue with the next iteration.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+3.Which loop in Python is a counter-controlled loop?
+Answer: In Python, for loop is a counter-controlled loop. The counter determines how many times the for loop executes.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4.What Python statement can be used to bring control out of the current loop?
+Answer : In Python, break statement brings control out of the current loop in which it is present.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.What is for loop?
+Answer : A for loop is typically used when you know exactly how many times the loop needs to be repeated. A while loop is typically used when you don't know how many times the loop needs to be repeated.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. What is while loop?
+Answer : A while loop repeats as long as its condition is true. For example, if a while loop says "while x == 5", then the line will execute as long as x equals five.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.What is the Python syntax for a for loop?
+Answer : The syntax for Python for loops is:
+
+for x in range(y): do something
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8. What are the advantages of using a for loop in Python?
+Answer :A for loop is a type of loop that executes a set of instructions repeatedly. It uses the following syntax: for x in range(y): do something
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9.What are the disadvantages of using a for loop in Python?
+Answer:The for-loop is one of the most basic constructs in programming. However, this construct has its own disadvantages.
+
+If you don't know the upper-bound of your loop, you have to keep track of it by hand or break out of your loop early.
+You can't use a break statement to escape from a nested loop.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10.How can I use a break statement in my Python for loops?
+Answer: A break statement can be used to terminate a loop. It is often used when the programmer needs to stop iterating through the data and instead go back to checking for other conditions.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11.What is Else Clause with Python For Loop?
+Answer : Python allows using an optional else statement along with the “for” loop.
+
+The code under the else clause executes after the completion of the “for” loop. However, if the loop stops due to a “break” call, then it’ll skip the “else” clause.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12. What are the 3 types of loops in Python?
+Answer: Type of Loops
+For Loop. A for loop in Python is used to iterate over a sequence (list, tuple, set, dictionary, and string). Flowchart: ...
+While Loop. The while loop is used to execute a set of statements as long as a condition is true. ...
+Nested Loop. If a loop exists inside the body of another loop, it is called a nested loop.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+13. What is  Nested Loop?
+Answer :If a loop exists inside the body of another loop, it is called a nested loop.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+14.Which loop is most used in Python?
+Answer: In python, a while loop is used to execute a block of statements repeatedly until a given condition is satisfied.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+15.What is Loop Control Statements?
+Answer :Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16.What is break statement?
+Answer: Terminates the loop statement and transfers execution to the statement immediately following the loop.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+17.What is continue statement?
+Answer: Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18. What is pass statement?
+Answer :The pass statement in Python is used when a statement is required syntactically but you do not want any command or code to execute.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+19.What is range() function? 
+Answer :Using a for loop with range(), we can repeat an action a specific number of times.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20.What are the 3 parameters used in a for loop in Python?
+Answer: Range with three parameters: start, end, step.
