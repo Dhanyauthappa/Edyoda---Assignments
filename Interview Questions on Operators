@@ -1,0 +1,140 @@
+1.What is meant by an Operator in Python?
+Ans:These are the special symbols in python and are used to execute an Arithmetic or Logical computation. An operator alone cannot perform an activity, it needs an Operand. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2.What is an operand? 
+Ans:An Operand is a value that the operator needs to complete a task.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. What are  Types of operators in Python:
+Ans :We have multiple operators in Python, and each operator is subdivided into other operators. Let’s list them down and know about each operator in detail.
+
+Arithmetic operators
+Comparison operators
+Assignment operators
+Logical operators
+Bitwise operators
+Membership operators
+Special operators
+Identity operators
+Membership operators
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4.What are Arithmetic operators in Python
+Ans :Arithmetic operators are used for executing the mathematical functions in Python which includes, addition, subtraction, multiplication, division, etc.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.What is Python (+) Addition operator
+
+Ans :Addition operator in python is being used to add two operands (values) in python programming. 
+
+Example X = 10
+  Y = 20
+  
+  print ( ‘x + y =’, x + y )
+  
+  o/p :x + y = 30
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+6.  What is Python (-) Subtraction operator
+
+Ans :In python programing, the operator, Subtraction is used to execute a mathematical function which subtracts the right hand operand from the left hand one.
+
+Example x = 10  
+y = 20
+# output: x - y = - 10
+print (‘x - y =’, x - y )
+
+
+# output: x - y = - 10
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7. What is Python (*) Multiplication operator
+
+Ans :It is used in python programming to multiply the values and thereby to get output. Let's consider the below program to understand the multiplication operator.
+
+Program
+
+x = 10  
+ y = 20
+
+ print (‘x * y =’, x * y )
+
+
+# output: x * y = 200
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8. Python (/) Division operator
+
+Ans :Division operator is used to divide the left hand operand by right hand one.
+
+Program
+
+  x = 10  
+ y = 20
+ 
+ print (‘x / y =’, x / y )
+
+
+# output: x / y = 0.5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9. What are Python Assignment Operators?
+Ans :Assignment operator is used to assign value to the event, property, or variable. We use this operator in python to assign values to variables. We have multiple Assignment operators. Let’s list them down and know things better.
+
+= Assign Value
++= Add AND
+-= Subtract AND
+*= Multiply AND
+/= Divide AND
+%= Modulus AND
+**= Exponent AND
+//= Floor Division
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10 . What is Python logical Operators?
+
+Ans :Logical operators are used in any programming language to make decision based on multiple conditions. In python, we use Logical operators to determine whether a condition is True or False by taking Operand values as base. Let’s consider different logical operators that are used in python programming.
+
+And - Logical AND
+Or - Logical OR
+Not - Logical NOT
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11. What is  Python and Logical AND operator
+
+Ans :AND operator returns the logical value ‘True’ when two Operands are true; otherwise, it will return False.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12.What is Python or Logical OR operator
+
+Ans :In this Logical OR operator, if any one of the two operands are non zero, then it returns the True condition. .
+
+Ex: variable A = 10, B = 20,
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+13. What is Python not Logical NOT
+
+Ans :Logical NOT is used to reverse the logical state of its operands.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+14. What are Python Bitwise operators
+Ans :Bitwise operators are used in python to perform the operations on binary numerals or bit patterns. It operates bit by bit.
+
+& Binary AND
+| Binary OR
+^ Binary XOR
+~ Binary Ones Complement
+<< Binary Left Shift
+>> Binary Right Shif
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+15. what is 2) Python | Binary OR Bitwise Operator
+
+Ans: This operator performs bit by bit OR operations on the values on either side of the operator.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+16. What is Python ^ Binary XOR Bitwise Operator
+
+Ans : This operator performs bit by bit exclusive OR operations on the values on either side of the
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+17.Python ~ Binary Ones Complement Bitwise Operator
+
+Ans: The one’s complement of a number’s binary is returned.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+18. Python << Binary Left shift Bitwise Operator
+
+Ans : The value to the left operator is shifted to the left as many times as the value on the right side of the operator.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+19.) Python >> Binary Right shift Bitwise Operator
+
+Ans : The value to the left of the operator is shifted to the right as many times as the value on the right of the operator.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+20. What is operator precedence in Python?
+
+Ans: Operator precedence is a predetermined order used to resolve the problem called multiple operations at a single time. Every part is examined and addressed in a predefined manner. Parentheses are used to override the order of precedence, and some parts are evaluated after others
