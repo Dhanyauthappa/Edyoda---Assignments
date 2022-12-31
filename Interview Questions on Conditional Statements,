@@ -1,0 +1,78 @@
+1.What are the three main conditional statements in Python?
+Answer:if, elif, and else
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. What does elif mean?
+Answer:It means else if. It is used after an if statement, to do another comparison.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+3.  How are if, elif, and else blocks defined?
+Answer:All blocks in Python are defined by indenting. All lines of a particular code block must have the same level of indenting.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+4. How is the Python switch statement used?
+Answer :This is a trick question, there is no built-in switch statement in Python, which is unusual. A switch statement can be easily created using if-elif using lambda or with Python dictionaries.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.What is If Else Statement?
+
+Answer:This statement is used when both the true and false parts of a given condition are specified to be executed. When the condition is true, the statement inside the if block is executed; if the condition is false, the statement outside the if block is executed.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. What is If…Elif..else Statement?
+
+Answer:In this case, the If condition is evaluated first. If it is false, the Elif statement will be executed; if it also comes false, the Else statement will be executed.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.What is Iterations?
+Answer: Computers are often used to automate repetitive tasks. Repeating identical or similar tasks without making errors is something that computers do well and people do poorly. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8.What is Short Hand if statement?
+
+Answer :Short Hand if statement is used when only one statement needs to be executed inside the if block. This statement can be mentioned in the same line which holds the If statement.
+
+The Short Hand if statement in Python has the following syntax:
+
+if condition: statement
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9.What is Short Hand if-else statement?
+
+Answer:It is used to mention If-else statements in one line in which there is only one statement to execute in both if and else blocks. In simple words, If you have only one statement to execute, one for if, and one for else, you can put it all on the same line.
+
+Examples for better understanding:
+
+#single line if-else statement
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10.  if..else statement example
+x = 3
+if x == 4:
+   print("Yes")
+else:
+   print("No")
+Output: 
+
+No
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11.What is Else?
+Anser :The else keyword catches anything which isn't caught by the preceding conditions.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+12. What is And?
+Answer: The and keyword is a logical operator, and is used to combine conditional statements.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+13. What is Or?
+Answer:The or keyword is a logical operator, and is used to combine conditional statements.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+14. What Nested If?
+Answer : We can have if statements inside if statements, this is called nested if statements.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+15.What The pass Statement?
+Answer:If statements cannot be empty, but if you for some reason have an if statement with no content, put in the pass statement to avoid getting an error.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+16.What is  Chained conditionals?
+Answer: Sometimes there are more than two possibilities and we need more than two branches. One way to express a computation like that is a chained conditional.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+17.Why Use Conditional Statements?
+Answer: A conditional statement is used to determine whether a certain condition exists before code is executed.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18.Name the keyword which helps in writing code involves condition
+Answer: if
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+19. What if Statement?
+Answer :If the simple code of block is to be performed if the condition holds true then if statement is used. Here the condition mentioned holds true then the code of block runs otherwise not.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20. What is if-elif Statement?
+Answer:The if-elif statement is shortcut of if..else chain. While using if-elif statement at the end else block is added which is performed if none of the above if-elif statement is true.
