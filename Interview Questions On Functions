@@ -1,0 +1,81 @@
+1. What are the 4 types of functions in Python?
+Answer: The following are the different types of Python Functions:
+Python Built-in Functions.
+Python Recursion Functions.
+Python Lambda Functions.
+Python User-defined Functions.
+---------------------------------------------------------------------------------------------------------------------------------------------
+2.What is the most used function in Python?
+Answer :What are the most useful functions in Python? Some of the most useful functions in Python are print(), abs(), round(), min(), max(), sorted(), sum(), and len().
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3.What are the 3 different function in Python?
+Answer: These three functions, which provide a functional programming style within the object-oriented python language, are the map(), filter(), and reduce() functions.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4.Which keyword is used for function?
+Answer: The def keyword is used to create, (or define) a function.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.What are the two main type of function in Python?
+Answer : There are two types of functions in python: User-Defined Functions - these types of functions are defined by the user to perform any specific task. Built-in Functions - These are pre-defined functions in python.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6.Is there MAX function in Python?
+Answer : Python max() Function
+
+The max() function returns the item with the highest value, or the item with the highest value in an iterable. If the values are strings, an alphabetically comparison is done.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.What are the 4 types of function?
+Answer:There are 4 types of functions:
+Functions with arguments and return values. This function has arguments and returns a value: ...
+Functions with arguments and without return values.
+Functions without arguments and with return values.
+Functions without arguments and without return values.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8.Which type of function main () is?
+Answer :main() is a predefined function from where the code execution starts. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9.What is Lambda in Python?
+Answer :lambda is a keyword in Python for defining the anonymous function.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10.Variables used inside a function between its?
+Answer: Local Variables
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11.What will be the output of the following code :
+print type(type(int))
+Answer :The type() function returns the class of the argument the object belongs to. Thus, type(int) returns which is of the type ‘type’ object.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+12.What is Calling a Function?
+Answer: To call a function, use the function name followed by parenthesis:
+def my_function():
+  print("Hello from a function")
+
+my_function()
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+13.What is Arguments?
+Answer: Information can be passed into functions as arguments.
+
+Arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14.What is Number of Arguments?
+Answer: a function must be called with the correct number of arguments. Meaning that if your function expects 2 arguments, you have to call the function with 2 arguments, not more, and not less.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15.What is Passing a List as an Argument?
+Answer: Data types of argument to a function (string, number, list, dictionary etc.), and it will be treated as the same data type inside the function.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16.What is The pass Statement?
+Answer:Function definitions cannot be empty, but if you for some reason have a function definition with no content, put in the pass statement to avoid getting an error.
+
+Example:
+def myfunction():
+  pass
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  17.What is Recursion?
+  Answer: Recursion is a common mathematical and programming concept. It means that a function calls itself. This has the benefit of meaning that you can loop through data to reach a result.
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  18.What are the main functions of Python?
+  Answer : The role of the main function is to act as the starting point of execution for any software program.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  19.In Python Functions are ?
+  Answer: Always called Passing reference.
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  20.What are global variables?
+  Answer:If you create a variable with the same name inside a function, this variable will be local, and can only be used inside the function. The global variable with the same name will remain as it was, global and with the original value.
+  
